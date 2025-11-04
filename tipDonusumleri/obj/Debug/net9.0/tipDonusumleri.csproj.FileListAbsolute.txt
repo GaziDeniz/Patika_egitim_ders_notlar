@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\tipDonusumleri\bin\Debug\net9.0\tipDonusumleri.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\tipDonusumleri\bin\Debug\net9.0\tipDonusumleri.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\tipDonusumleri\bin\Debug\net9.0\tipDonusumleri.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\tipDonusumleri\bin\Debug\net9.0\tipDonusumleri.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\tipDonusumleri\bin\Debug\net9.0\tipDonusumleri.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\tipDonusumleri\obj\Debug\net9.0\tipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\tipDonusumleri\obj\Debug\net9.0\tipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\tipDonusumleri\obj\Debug\net9.0\tipDonusumleri.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\tipDonusumleri\obj\Debug\net9.0\tipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\tipDonusumleri\obj\Debug\net9.0\tipDonusumleri.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\tipDonusumleri\obj\Debug\net9.0\refint\tipDonusumleri.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\tipDonusumleri\obj\Debug\net9.0\tipDonusumleri.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\tipDonusumleri\obj\Debug\net9.0\tipDonusumleri.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\tipDonusumleri\obj\Debug\net9.0\ref\tipDonusumleri.dll

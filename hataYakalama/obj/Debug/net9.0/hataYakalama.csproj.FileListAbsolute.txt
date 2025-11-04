@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\hataYakalama\bin\Debug\net9.0\hataYakalama.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\hataYakalama\bin\Debug\net9.0\hataYakalama.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\hataYakalama\bin\Debug\net9.0\hataYakalama.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\hataYakalama\bin\Debug\net9.0\hataYakalama.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\hataYakalama\bin\Debug\net9.0\hataYakalama.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\hataYakalama\obj\Debug\net9.0\hataYakalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\hataYakalama\obj\Debug\net9.0\hataYakalama.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\hataYakalama\obj\Debug\net9.0\hataYakalama.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\hataYakalama\obj\Debug\net9.0\hataYakalama.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\hataYakalama\obj\Debug\net9.0\hataYakalama.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\hataYakalama\obj\Debug\net9.0\refint\hataYakalama.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\hataYakalama\obj\Debug\net9.0\hataYakalama.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\hataYakalama\obj\Debug\net9.0\hataYakalama.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\hataYakalama\obj\Debug\net9.0\ref\hataYakalama.dll

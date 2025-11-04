@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\switchCase\bin\Debug\net9.0\switchCase.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\switchCase\bin\Debug\net9.0\switchCase.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\switchCase\bin\Debug\net9.0\switchCase.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\switchCase\bin\Debug\net9.0\switchCase.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\switchCase\bin\Debug\net9.0\switchCase.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\switchCase\obj\Debug\net9.0\switchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\switchCase\obj\Debug\net9.0\switchCase.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\switchCase\obj\Debug\net9.0\switchCase.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\switchCase\obj\Debug\net9.0\switchCase.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\switchCase\obj\Debug\net9.0\switchCase.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\switchCase\obj\Debug\net9.0\refint\switchCase.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\switchCase\obj\Debug\net9.0\switchCase.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\switchCase\obj\Debug\net9.0\switchCase.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\switchCase\obj\Debug\net9.0\ref\switchCase.dll

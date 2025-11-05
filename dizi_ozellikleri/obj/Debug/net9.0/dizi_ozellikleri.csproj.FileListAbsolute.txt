@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\dizi_ozellikleri\bin\Debug\net9.0\dizi_ozellikleri.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\dizi_ozellikleri\bin\Debug\net9.0\dizi_ozellikleri.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\dizi_ozellikleri\bin\Debug\net9.0\dizi_ozellikleri.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\dizi_ozellikleri\bin\Debug\net9.0\dizi_ozellikleri.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\dizi_ozellikleri\bin\Debug\net9.0\dizi_ozellikleri.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\dizi_ozellikleri\obj\Debug\net9.0\dizi_ozellikleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\dizi_ozellikleri\obj\Debug\net9.0\dizi_ozellikleri.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\dizi_ozellikleri\obj\Debug\net9.0\dizi_ozellikleri.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\dizi_ozellikleri\obj\Debug\net9.0\dizi_ozellikleri.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\dizi_ozellikleri\obj\Debug\net9.0\dizi_ozellikleri.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\dizi_ozellikleri\obj\Debug\net9.0\refint\dizi_ozellikleri.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\dizi_ozellikleri\obj\Debug\net9.0\dizi_ozellikleri.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\dizi_ozellikleri\obj\Debug\net9.0\dizi_ozellikleri.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\dizi_ozellikleri\obj\Debug\net9.0\ref\dizi_ozellikleri.dll

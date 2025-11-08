@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\metotlar\bin\Debug\net9.0\metotlar.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\metotlar\bin\Debug\net9.0\metotlar.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\metotlar\bin\Debug\net9.0\metotlar.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\metotlar\bin\Debug\net9.0\metotlar.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\metotlar\bin\Debug\net9.0\metotlar.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\metotlar\obj\Debug\net9.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\metotlar\obj\Debug\net9.0\metotlar.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\metotlar\obj\Debug\net9.0\metotlar.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\metotlar\obj\Debug\net9.0\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\metotlar\obj\Debug\net9.0\metotlar.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\metotlar\obj\Debug\net9.0\refint\metotlar.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\metotlar\obj\Debug\net9.0\metotlar.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\metotlar\obj\Debug\net9.0\metotlar.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\metotlar\obj\Debug\net9.0\ref\metotlar.dll

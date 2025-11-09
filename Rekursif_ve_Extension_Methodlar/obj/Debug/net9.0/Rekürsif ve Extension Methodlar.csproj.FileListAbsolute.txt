@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\Rekürsif ve Extension Methodlar\bin\Debug\net9.0\Rekürsif ve Extension Methodlar.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\Rekürsif ve Extension Methodlar\bin\Debug\net9.0\Rekürsif ve Extension Methodlar.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Rekürsif ve Extension Methodlar\bin\Debug\net9.0\Rekürsif ve Extension Methodlar.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Rekürsif ve Extension Methodlar\bin\Debug\net9.0\Rekürsif ve Extension Methodlar.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Rekürsif ve Extension Methodlar\bin\Debug\net9.0\Rekürsif ve Extension Methodlar.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Rekürsif ve Extension Methodlar\obj\Debug\net9.0\Rekürsif ve Extension Methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\Rekürsif ve Extension Methodlar\obj\Debug\net9.0\Rekürsif ve Extension Methodlar.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Rekürsif ve Extension Methodlar\obj\Debug\net9.0\Rekürsif ve Extension Methodlar.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\Rekürsif ve Extension Methodlar\obj\Debug\net9.0\Rekürsif ve Extension Methodlar.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Rekürsif ve Extension Methodlar\obj\Debug\net9.0\Rekürsif ve Extension Methodlar.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Rekürsif ve Extension Methodlar\obj\Debug\net9.0\refint\Rekürsif ve Extension Methodlar.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Rekürsif ve Extension Methodlar\obj\Debug\net9.0\Rekürsif ve Extension Methodlar.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Rekürsif ve Extension Methodlar\obj\Debug\net9.0\Rekürsif ve Extension Methodlar.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Rekürsif ve Extension Methodlar\obj\Debug\net9.0\ref\Rekürsif ve Extension Methodlar.dll

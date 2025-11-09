@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\Odev_1_Algoritmalar\bin\Debug\net9.0\Odev_1_Algoritmalar.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\Odev_1_Algoritmalar\bin\Debug\net9.0\Odev_1_Algoritmalar.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Odev_1_Algoritmalar\bin\Debug\net9.0\Odev_1_Algoritmalar.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Odev_1_Algoritmalar\bin\Debug\net9.0\Odev_1_Algoritmalar.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Odev_1_Algoritmalar\bin\Debug\net9.0\Odev_1_Algoritmalar.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Odev_1_Algoritmalar\obj\Debug\net9.0\Odev_1_Algoritmalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\Odev_1_Algoritmalar\obj\Debug\net9.0\Odev_1_Algoritmalar.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Odev_1_Algoritmalar\obj\Debug\net9.0\Odev_1_Algoritmalar.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\Odev_1_Algoritmalar\obj\Debug\net9.0\Odev_1_Algoritmalar.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Odev_1_Algoritmalar\obj\Debug\net9.0\Odev_1_Algoritmalar.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Odev_1_Algoritmalar\obj\Debug\net9.0\refint\Odev_1_Algoritmalar.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Odev_1_Algoritmalar\obj\Debug\net9.0\Odev_1_Algoritmalar.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Odev_1_Algoritmalar\obj\Debug\net9.0\Odev_1_Algoritmalar.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Odev_1_Algoritmalar\obj\Debug\net9.0\ref\Odev_1_Algoritmalar.dll

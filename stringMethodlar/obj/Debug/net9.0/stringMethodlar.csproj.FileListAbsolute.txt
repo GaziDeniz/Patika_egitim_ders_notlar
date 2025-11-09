@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\stringMethodlar\bin\Debug\net9.0\stringMethodlar.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\stringMethodlar\bin\Debug\net9.0\stringMethodlar.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\stringMethodlar\bin\Debug\net9.0\stringMethodlar.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\stringMethodlar\bin\Debug\net9.0\stringMethodlar.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\stringMethodlar\bin\Debug\net9.0\stringMethodlar.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\stringMethodlar\obj\Debug\net9.0\stringMethodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\stringMethodlar\obj\Debug\net9.0\stringMethodlar.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\stringMethodlar\obj\Debug\net9.0\stringMethodlar.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\stringMethodlar\obj\Debug\net9.0\stringMethodlar.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\stringMethodlar\obj\Debug\net9.0\stringMethodlar.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\stringMethodlar\obj\Debug\net9.0\refint\stringMethodlar.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\stringMethodlar\obj\Debug\net9.0\stringMethodlar.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\stringMethodlar\obj\Debug\net9.0\stringMethodlar.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\stringMethodlar\obj\Debug\net9.0\ref\stringMethodlar.dll

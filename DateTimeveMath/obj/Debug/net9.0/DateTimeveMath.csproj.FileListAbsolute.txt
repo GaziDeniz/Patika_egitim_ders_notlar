@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\DateTimeveMath\bin\Debug\net9.0\DateTimeveMath.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\DateTimeveMath\bin\Debug\net9.0\DateTimeveMath.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\DateTimeveMath\bin\Debug\net9.0\DateTimeveMath.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\DateTimeveMath\bin\Debug\net9.0\DateTimeveMath.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\DateTimeveMath\bin\Debug\net9.0\DateTimeveMath.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\DateTimeveMath\obj\Debug\net9.0\DateTimeveMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\DateTimeveMath\obj\Debug\net9.0\DateTimeveMath.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\DateTimeveMath\obj\Debug\net9.0\DateTimeveMath.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\DateTimeveMath\obj\Debug\net9.0\DateTimeveMath.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\DateTimeveMath\obj\Debug\net9.0\DateTimeveMath.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\DateTimeveMath\obj\Debug\net9.0\refint\DateTimeveMath.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\DateTimeveMath\obj\Debug\net9.0\DateTimeveMath.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\DateTimeveMath\obj\Debug\net9.0\DateTimeveMath.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\DateTimeveMath\obj\Debug\net9.0\ref\DateTimeveMath.dll

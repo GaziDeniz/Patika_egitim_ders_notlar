@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\List_GenericKoleksiyon\bin\Debug\net9.0\List_GenericKoleksiyon.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\List_GenericKoleksiyon\bin\Debug\net9.0\List_GenericKoleksiyon.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\List_GenericKoleksiyon\bin\Debug\net9.0\List_GenericKoleksiyon.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\List_GenericKoleksiyon\bin\Debug\net9.0\List_GenericKoleksiyon.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\List_GenericKoleksiyon\bin\Debug\net9.0\List_GenericKoleksiyon.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\List_GenericKoleksiyon\obj\Debug\net9.0\List_GenericKoleksiyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\List_GenericKoleksiyon\obj\Debug\net9.0\List_GenericKoleksiyon.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\List_GenericKoleksiyon\obj\Debug\net9.0\List_GenericKoleksiyon.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\List_GenericKoleksiyon\obj\Debug\net9.0\List_GenericKoleksiyon.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\List_GenericKoleksiyon\obj\Debug\net9.0\List_GenericKoleksiyon.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\List_GenericKoleksiyon\obj\Debug\net9.0\refint\List_GenericKoleksiyon.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\List_GenericKoleksiyon\obj\Debug\net9.0\List_GenericKoleksiyon.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\List_GenericKoleksiyon\obj\Debug\net9.0\List_GenericKoleksiyon.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\List_GenericKoleksiyon\obj\Debug\net9.0\ref\List_GenericKoleksiyon.dll

@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\arrayList\bin\Debug\net9.0\arrayList.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\arrayList\bin\Debug\net9.0\arrayList.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\arrayList\bin\Debug\net9.0\arrayList.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\arrayList\bin\Debug\net9.0\arrayList.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\arrayList\bin\Debug\net9.0\arrayList.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\arrayList\obj\Debug\net9.0\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\arrayList\obj\Debug\net9.0\arrayList.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\arrayList\obj\Debug\net9.0\arrayList.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\arrayList\obj\Debug\net9.0\arrayList.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\arrayList\obj\Debug\net9.0\arrayList.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\arrayList\obj\Debug\net9.0\refint\arrayList.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\arrayList\obj\Debug\net9.0\arrayList.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\arrayList\obj\Debug\net9.0\arrayList.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\arrayList\obj\Debug\net9.0\ref\arrayList.dll

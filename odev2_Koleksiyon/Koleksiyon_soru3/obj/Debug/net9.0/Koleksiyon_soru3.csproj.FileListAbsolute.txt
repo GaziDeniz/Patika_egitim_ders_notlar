@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\odev2_Koleksiyon\Koleksiyon_soru3\bin\Debug\net9.0\Koleksiyon_soru3.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\odev2_Koleksiyon\Koleksiyon_soru3\bin\Debug\net9.0\Koleksiyon_soru3.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\odev2_Koleksiyon\Koleksiyon_soru3\bin\Debug\net9.0\Koleksiyon_soru3.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\odev2_Koleksiyon\Koleksiyon_soru3\bin\Debug\net9.0\Koleksiyon_soru3.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\odev2_Koleksiyon\Koleksiyon_soru3\bin\Debug\net9.0\Koleksiyon_soru3.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\odev2_Koleksiyon\Koleksiyon_soru3\obj\Debug\net9.0\Koleksiyon_soru3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\odev2_Koleksiyon\Koleksiyon_soru3\obj\Debug\net9.0\Koleksiyon_soru3.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\odev2_Koleksiyon\Koleksiyon_soru3\obj\Debug\net9.0\Koleksiyon_soru3.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\odev2_Koleksiyon\Koleksiyon_soru3\obj\Debug\net9.0\Koleksiyon_soru3.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\odev2_Koleksiyon\Koleksiyon_soru3\obj\Debug\net9.0\Koleksiyon_soru3.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\odev2_Koleksiyon\Koleksiyon_soru3\obj\Debug\net9.0\refint\Koleksiyon_soru3.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\odev2_Koleksiyon\Koleksiyon_soru3\obj\Debug\net9.0\Koleksiyon_soru3.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\odev2_Koleksiyon\Koleksiyon_soru3\obj\Debug\net9.0\Koleksiyon_soru3.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\odev2_Koleksiyon\Koleksiyon_soru3\obj\Debug\net9.0\ref\Koleksiyon_soru3.dll

@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kurucu_Fonksiyonlar\bin\Debug\net9.0\Kurucu_Fonksiyonlar.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kurucu_Fonksiyonlar\bin\Debug\net9.0\Kurucu_Fonksiyonlar.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kurucu_Fonksiyonlar\bin\Debug\net9.0\Kurucu_Fonksiyonlar.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kurucu_Fonksiyonlar\bin\Debug\net9.0\Kurucu_Fonksiyonlar.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kurucu_Fonksiyonlar\bin\Debug\net9.0\Kurucu_Fonksiyonlar.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kurucu_Fonksiyonlar\obj\Debug\net9.0\Kurucu_Fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kurucu_Fonksiyonlar\obj\Debug\net9.0\Kurucu_Fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kurucu_Fonksiyonlar\obj\Debug\net9.0\Kurucu_Fonksiyonlar.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kurucu_Fonksiyonlar\obj\Debug\net9.0\Kurucu_Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kurucu_Fonksiyonlar\obj\Debug\net9.0\Kurucu_Fonksiyonlar.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kurucu_Fonksiyonlar\obj\Debug\net9.0\refint\Kurucu_Fonksiyonlar.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kurucu_Fonksiyonlar\obj\Debug\net9.0\Kurucu_Fonksiyonlar.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kurucu_Fonksiyonlar\obj\Debug\net9.0\Kurucu_Fonksiyonlar.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kurucu_Fonksiyonlar\obj\Debug\net9.0\ref\Kurucu_Fonksiyonlar.dll

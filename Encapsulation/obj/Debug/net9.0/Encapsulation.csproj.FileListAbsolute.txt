@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\Encapsulation\bin\Debug\net9.0\Encapsulation.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\Encapsulation\bin\Debug\net9.0\Encapsulation.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Encapsulation\bin\Debug\net9.0\Encapsulation.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Encapsulation\bin\Debug\net9.0\Encapsulation.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Encapsulation\bin\Debug\net9.0\Encapsulation.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Encapsulation\obj\Debug\net9.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\Encapsulation\obj\Debug\net9.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Encapsulation\obj\Debug\net9.0\Encapsulation.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Encapsulation\obj\Debug\net9.0\refint\Encapsulation.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Encapsulation\obj\Debug\net9.0\Encapsulation.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Encapsulation\obj\Debug\net9.0\Encapsulation.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Encapsulation\obj\Debug\net9.0\ref\Encapsulation.dll

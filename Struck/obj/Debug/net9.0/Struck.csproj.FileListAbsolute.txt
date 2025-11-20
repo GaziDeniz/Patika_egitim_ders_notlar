@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\Struck\bin\Debug\net9.0\Struck.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\Struck\bin\Debug\net9.0\Struck.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Struck\bin\Debug\net9.0\Struck.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Struck\bin\Debug\net9.0\Struck.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Struck\bin\Debug\net9.0\Struck.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Struck\obj\Debug\net9.0\Struck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\Struck\obj\Debug\net9.0\Struck.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Struck\obj\Debug\net9.0\Struck.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\Struck\obj\Debug\net9.0\Struck.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Struck\obj\Debug\net9.0\Struck.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Struck\obj\Debug\net9.0\refint\Struck.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Struck\obj\Debug\net9.0\Struck.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Struck\obj\Debug\net9.0\Struck.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Struck\obj\Debug\net9.0\ref\Struck.dll

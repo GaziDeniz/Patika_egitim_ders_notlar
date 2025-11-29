@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuz_Ornek\bin\Debug\net9.0\Arayuz_Ornek.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuz_Ornek\bin\Debug\net9.0\Arayuz_Ornek.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuz_Ornek\bin\Debug\net9.0\Arayuz_Ornek.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuz_Ornek\bin\Debug\net9.0\Arayuz_Ornek.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuz_Ornek\bin\Debug\net9.0\Arayuz_Ornek.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuz_Ornek\obj\Debug\net9.0\Arayuz_Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuz_Ornek\obj\Debug\net9.0\Arayuz_Ornek.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuz_Ornek\obj\Debug\net9.0\Arayuz_Ornek.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuz_Ornek\obj\Debug\net9.0\Arayuz_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuz_Ornek\obj\Debug\net9.0\Arayuz_Ornek.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuz_Ornek\obj\Debug\net9.0\refint\Arayuz_Ornek.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuz_Ornek\obj\Debug\net9.0\Arayuz_Ornek.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuz_Ornek\obj\Debug\net9.0\Arayuz_Ornek.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuz_Ornek\obj\Debug\net9.0\ref\Arayuz_Ornek.dll

@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuzler\bin\Debug\net9.0\Arayuzler.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuzler\bin\Debug\net9.0\Arayuzler.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuzler\bin\Debug\net9.0\Arayuzler.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuzler\bin\Debug\net9.0\Arayuzler.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuzler\bin\Debug\net9.0\Arayuzler.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuzler\obj\Debug\net9.0\Arayuzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuzler\obj\Debug\net9.0\Arayuzler.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuzler\obj\Debug\net9.0\Arayuzler.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuzler\obj\Debug\net9.0\Arayuzler.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuzler\obj\Debug\net9.0\Arayuzler.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuzler\obj\Debug\net9.0\refint\Arayuzler.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuzler\obj\Debug\net9.0\Arayuzler.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuzler\obj\Debug\net9.0\Arayuzler.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Arayuzler\obj\Debug\net9.0\ref\Arayuzler.dll

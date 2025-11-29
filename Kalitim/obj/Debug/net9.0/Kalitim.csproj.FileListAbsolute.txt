@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kalitim\bin\Debug\net9.0\Kalitim.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kalitim\bin\Debug\net9.0\Kalitim.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kalitim\bin\Debug\net9.0\Kalitim.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kalitim\bin\Debug\net9.0\Kalitim.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kalitim\bin\Debug\net9.0\Kalitim.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kalitim\obj\Debug\net9.0\Kalitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kalitim\obj\Debug\net9.0\Kalitim.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kalitim\obj\Debug\net9.0\Kalitim.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kalitim\obj\Debug\net9.0\Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kalitim\obj\Debug\net9.0\Kalitim.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kalitim\obj\Debug\net9.0\refint\Kalitim.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kalitim\obj\Debug\net9.0\Kalitim.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kalitim\obj\Debug\net9.0\Kalitim.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Kalitim\obj\Debug\net9.0\ref\Kalitim.dll

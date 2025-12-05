@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\Desktop\Kodlama\Patika_Proje_2\bin\Debug\net9.0\Patika_Proje_2.exe
+C:\Users\EXCALIBUR\Desktop\Kodlama\Patika_Proje_2\bin\Debug\net9.0\Patika_Proje_2.deps.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Patika_Proje_2\bin\Debug\net9.0\Patika_Proje_2.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\Kodlama\Patika_Proje_2\bin\Debug\net9.0\Patika_Proje_2.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Patika_Proje_2\bin\Debug\net9.0\Patika_Proje_2.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Patika_Proje_2\obj\Debug\net9.0\Patika_Proje_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\Kodlama\Patika_Proje_2\obj\Debug\net9.0\Patika_Proje_2.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Patika_Proje_2\obj\Debug\net9.0\Patika_Proje_2.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\Kodlama\Patika_Proje_2\obj\Debug\net9.0\Patika_Proje_2.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Patika_Proje_2\obj\Debug\net9.0\Patika_Proje_2.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Patika_Proje_2\obj\Debug\net9.0\refint\Patika_Proje_2.dll
+C:\Users\EXCALIBUR\Desktop\Kodlama\Patika_Proje_2\obj\Debug\net9.0\Patika_Proje_2.pdb
+C:\Users\EXCALIBUR\Desktop\Kodlama\Patika_Proje_2\obj\Debug\net9.0\Patika_Proje_2.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\Kodlama\Patika_Proje_2\obj\Debug\net9.0\ref\Patika_Proje_2.dll
